@@ -1,0 +1,5 @@
+# Ignore plan file
+MORTGAGE_CALCULATOR_PLAN.md
+
+# Ignore Roo modes configuration
+.roomodes.json
